@@ -1,0 +1,27 @@
+/* Tag Selectors ..........................................*/
+
+body{
+	background-color: #ffe2e2;
+}
+
+hr{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 10px;
+	width: 50px
+}
+
+h1, h2, h3{
+	color: #ff5f40;
+}
+
+/* Class Selectors ........................................*/
+
+.emoji{
+	width: 50%;
+}
+
+/* ID Selectors ...........................................*/
+
+
